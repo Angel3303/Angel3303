@@ -1,4 +1,5 @@
-
+```
+➜  ~ neofetch
                                                                                 
                         ░░░░                                   ░░░░       [ SYSTEM BOOT SEQUENCE INITIATED... ]      
                  ░░███                                  ░░███             --------------------------------------      
@@ -24,5 +25,5 @@
                    ████                                  ░████            > SYSTEM: Stable & self-learning enabled.      
                    ████                                  ░████                  
            ░░░░░                                  ░░░░░
-
-![gengar-gen-2](https://github.com/user-attachments/assets/ead026d0-e3c8-4f54-b8ba-ab388687b7df)
+➜  ~ |
+```
